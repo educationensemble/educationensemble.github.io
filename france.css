@@ -1,0 +1,149 @@
+p{
+  font-size : 20pt;
+}
+p{
+  color : white;
+}
+#about{
+  font-size:15pt;
+}
+body h1{
+  font-size:40pt;
+  text-align: center;
+  color:white;
+}
+h2{
+  color:black;
+}
+body { 
+  background-color: #589dd3;
+}
+.circular--portrait { 
+  position: relative; 
+  width: 400px; 
+  height: 300px; 
+  overflow: hidden; 
+  border-radius: 50%; 
+  } 
+
+.circular--portrait img { 
+  width: 100%; 
+  height: auto; 
+}
+
+
+/*#profile{
+  width:400px ;
+max-width: 100%;
+  height: auto;
+}
+*/
+
+table{ border: 1 px solid black ; }
+table,td{ border: 1px solid black; }
+footer{ 
+  width:auto;
+  height: 10px;
+background-color:orange;
+padding: 60px 0px;
+ }
+ #navbar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#navbar li { 
+  display: inline; 
+}
+#navbar {
+
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  border: 5px solid black;
+  border-radius: 10px 5px;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+}
+#navbar a {
+  color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  width: 200px;
+}
+#navbar a:hover {
+  border-radius: 20px 5px;
+  background-color:#d5735d;
+}
+#footer{
+margin: 0;
+  padding: 0;
+  list-style-type: none;
+  border: 5px solid black;
+  border-radius: 10px 5px;
+  width: 1400px;
+  text-align: center;
+  background-color: black;
+}
+#footer a {
+  color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  width: 200px;
+}
+#footer a:hover {
+  border-radius: 20px 5px;
+  background-color:#d5735d;
+}
+footer{
+background-color:black;
+}
+
+li a{
+  color:white;
+}
+
+li{
+  font-size: 20pt;
+}
+.column {
+    text-align:center;
+}
+    }
+body {
+  display: flex;
+  flex-direction: column;
+   flex: 1 0 auto;
+}
+
+footer {
+  flex-shrink: 0;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.c{
+  text-align:center;
+}
+.p{
+  text-align: center;
+}
+.pa{
+    text-align: center;
+  }
+
+.pa img{
+  width: 100%;
+}
+
+    body{ 
+      margin: 0%; 
+    }
